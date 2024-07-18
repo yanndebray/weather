@@ -1,8 +1,10 @@
 
 # <span style="color:rgb(213,80,0)">Weather analysis</span>
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/weather&file=livescript.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/weather)
 
-2024-04-19
+Open the app in focus mode: https://matlab.mathworks.com/open/github/v1?repo=yanndebray/weather&file=weather.mlapp&focus=true
+
+Open the live script in focus mode: https://matlab.mathworks.com/open/github/v1?repo=yanndebray/weather&file=livescript.mlx&focus=true
 
 <img src="OpenWeather.svg">
 
