@@ -9,8 +9,6 @@ Open the live script in focus mode: [https://matlab.mathworks.com/open/github/v1
 
 
 
-2025\-03\-18
-
 <a name="beginToc"></a>
 
 ## Table of Contents
