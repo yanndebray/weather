@@ -1,7 +1,7 @@
 name: weather scraper
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 jobs:
   git-scraping:
